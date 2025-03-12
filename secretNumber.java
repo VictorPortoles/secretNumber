@@ -3,7 +3,7 @@ package Secretgame;
 import java.util.Scanner;
 /**
  *
- * @author Vic Boo
+ * 
  */
 public class Secretgame {
     public static void main(String[] args) {
